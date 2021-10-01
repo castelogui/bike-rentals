@@ -1,6 +1,12 @@
 # bike_rental
 
-A new Flutter project.
+Projeto flutter para aluguel de bicicletas.
+
+## The Project
+
+![Home](github/images/home.png =250x)
+![Detail](github/images/detail.png)
+![Cart](github/images/cart.png)
 
 ## Getting Started
 
