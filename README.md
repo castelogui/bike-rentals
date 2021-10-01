@@ -4,9 +4,11 @@ Projeto flutter para aluguel de bicicletas.
 
 ## The Project
 
-![Home](github/images/home.png =250x)
-![Detail](github/images/detail.png)
-![Cart](github/images/cart.png)
+<div align="center">
+<img src="github/images/home.png" width="200"/><br>
+<img src="github/images/detail.png" width="200"/><br>
+<img src="github/images/cart.png" width="200"/><br>
+</div>
 
 ## Getting Started
 
